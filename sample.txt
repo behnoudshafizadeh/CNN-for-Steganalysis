@@ -1,0 +1,9 @@
+C:/Users/user/Desktop/bash/dataset/train/cover
+C:/Users/user/Desktop/bash/dataset/test/cover
+C:/Users/user/Desktop/bash/dataset/train/stego
+C:/Users/user/Desktop/bash/dataset/test/stego
+'1.0.0'
+2
+2
+16
+saved_weights
